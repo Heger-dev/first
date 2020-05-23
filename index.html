@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>yo soy el mas perron aqui</title>
+    <!-- font awesome.cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <!-- Custom css -->
+    <link rel="stylesheet" href="styles.css">
+    <!-- font oswald google-->
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/scrollreveal"></script>
+</head>
+<body>
+<div class="menu-btm"><i class="fas fa-bars"></i></div>
+    <div class="conteiner">
+        <nav class="nav-main">
+            <img src="imagen/brand.png" alt="Lo mas duro, el heger" class="nav-brand">
+          <ul class="nav-menu">
+            <li> <a href="#">HEGER</a></li>
+            <li> <a href="#">ARIAS</a></li>
+            <li> <a href="#">SANTOS</a></li>
+            <li> <a href="#">ES</a></li>
+            <li> <a href="#">El</a></li>
+            <li> <a href="#">MAS</a></li>
+            <li> <a href="#">PERRON</a></li>
+            <li> <a href="#">AQUI</a></li>  
+          </ul>
+          <ul class="nav-menu-right">
+            <li>
+              <a href="#"> <i class="fas fa-search"></i>
+
+              </a>
+            </li>
+          </ul>
+        </nav>
+    
+    <hr>
+
+    <header class="showcase">
+      <h2>Heger the best</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil quasi magni in quae reiciendis, molestias nobis amet rem dolorum, aperiam quos dolores quia inventore dicta?</p>
+      <a href="#" class="btm">Read more <i class="fas fa-angle-double-right"></i></a>
+     
+    </header>
+    <!-- new cards -->
+    <div class="new-cards">
+      <div>
+      <img src="imagen/news1.jpg" alt="cosita">
+      <h3>Lorem, ipsum dolor.</h3>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+      <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+      </div>
+      
+      <div>
+      <img src="imagen/news2.jpg" alt="cosita">
+      <h3>Lorem, ipsum dolor.</h3>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+      <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+    </div>
+    <div>
+      <img src="imagen/news3.jpg" alt="cosita">
+      <h3>Lorem, ipsum dolor.</h3>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+      <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+    </div> 
+    <div>
+      <img src="imagen/news4.jpg" alt="cosita">
+      <h3>Lorem, ipsum dolor.</h3>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+      <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+
+    </div>
+    </div>
+<!-- cards banner one -->
+<section class="banner-one">
+  <div class="contenedor">
+    <h2>Lorem, ipsum dolor.</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat dolore recusandae voluptas dolorem nulla, labore modi! Dolore modi mollitia consectetur!</p>
+    <a href="#" class="btm">Read more <i class="fas fa-angle-double-right"></i></a>
+  </div>
+</section>
+
+<div class="new-cards">
+  <div>
+  <img src="imagen/news1.jpg" alt="cosita">
+  <h3>Lorem, ipsum dolor.</h3>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+  <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+  </div>
+  
+  <div>
+  <img src="imagen/news2.jpg" alt="cosita">
+  <h3>Lorem, ipsum dolor.</h3>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+  <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+</div>
+<div>
+  <img src="imagen/news3.jpg" alt="cosita">
+  <h3>Lorem, ipsum dolor.</h3>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+  <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+</div> 
+<div>
+  <img src="imagen/news4.jpg" alt="cosita">
+  <h3>Lorem, ipsum dolor.</h3>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo error repudiandae dolores sint, magni asperiores fugit voluptatem iure et aspernatur?</p>
+  <a href="#">Read more <i class="fas fa-angle-double-right"></i></a>
+
+</div>
+</div>
+    
+<section class="banner-two">
+  <div class="conter">
+    <h2>Lorem, ipsum dolor.</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor aliquam eaque non mollitia doloribus esse exercitationem labore similique temporibus voluptate.</p>
+    <a href="#" class="btm">learn more <i class="fas fa-angle-double-right"></i></a>
+  </div>
+</section>
+
+<section class="social">
+  <p>Follow me Plis</p>
+  <div class="links">
+  
+    <a href="#"><i class="fab fa-facebook-f"></i></a>
+    <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="#"><i class="fab fa-linkedin"></i></a>
+    
+  </div>
+</section>
+
+
+  </div>
+<div class="footer-links">
+  <div class="footer-conteiner">
+    
+    
+    <ul>
+      <li><h3>tittle one</h3></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+    </ul>
+    <ul>
+      <li><h3>tittle one</h3></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+    </ul>
+    <ul>
+      <li><h3>tittle one</h3></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+    </ul>
+    <ul>
+      <li><h3>tittle one</h3></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+      <li><a href="#">new</a></li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  <h3>Fin</h3>
+</footer>
+<script src="main.js"></script>
+<!-- scroll reveal -->
+<script src="https://unpkg.com/scrollreveal"></script>
+
+</body>
+</html>
